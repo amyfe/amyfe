@@ -1,5 +1,14 @@
-## Hi there 👋
+<img width="1100" height="400" alt="Github_Banner" src="https://github.com/user-attachments/assets/00222628-f257-4429-af9b-6d424f892670" />
 
+## Hi there, I'm Amina 👋
+### 文 → 訳 — building **Sumina**, an OCR + NLP pipeline to translate Edo-period Japanese manuscripts
+ 
+[coin-stamp-recognition](https://github.com/amyfe/lloyd_data_challenges_coin_recognition) · [feralgmbh.de](https://feralgmbh.de/) 
+ 
+---
+
+🎓 B.Sc. Mathematics, (soon) M.Sc. Computer Science
+🌏 Germany
 <!--
 **amyfe/amyfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
